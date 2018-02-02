@@ -10,3 +10,10 @@ Python script to parse through historical Ethereum market prices on Coinmarketca
 <li> requests module </li>
 <li> beautifulsoup4 module </li>
 </ul>
+<b> Source Data </b><br>
+<img src="image002.jpg" alt="Coinmarketcap.com">
+<b> Output – CSV file saved to directory where script is ran </b><br>
+<img src="image004.jpg" alt="CSV File Location">
+<b> Output – CSV file </b><br>
+<img src="image006.jpg" alt="CSV File"><br>
+<b> Next Steps: </b>
