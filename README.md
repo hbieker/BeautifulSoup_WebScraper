@@ -17,9 +17,8 @@ Python script to parse through historical Ethereum market prices on Coinmarketca
 <b> Output – CSV file </b><br>
 <img src="image006.jpg" alt="CSV File"><br>
 <b> Future Enhancements: </b>
-<br>
 <ul>
 <li> Utilize pandas to analyze the data</li>
 <li> Write the data to a MySQL database</li>
 <li> Any other suggestions are welcome </li>
- 
+</ul>
