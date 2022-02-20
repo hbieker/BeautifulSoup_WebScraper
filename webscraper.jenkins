@@ -1,5 +1,5 @@
-pipeline {
-    agent { docker { image 'python:3.10.1-alpine' } }
+Pipeline {
+    agent any 
     stages {
         stage('build') {
             steps {
