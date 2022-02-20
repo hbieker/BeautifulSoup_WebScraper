@@ -1,7 +1,7 @@
 pipeline {
     agent any 
     stages {
-        stage('build') {
+        stage('Run Python Script') {
             steps {
                 sh 'python test.py'
             }
