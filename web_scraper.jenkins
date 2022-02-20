@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                sh 'web_scraper_final.py'
+                sh 'python test.py'
             }
         }
     }
